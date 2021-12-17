@@ -1,1 +1,1 @@
-# odin-recipes
+A recipe webiste showing basic use of HTML and its elements 
